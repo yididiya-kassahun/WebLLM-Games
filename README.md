@@ -24,9 +24,9 @@ To run the games locally, follow these steps:
 
 Ensure you have Node.js installed. Then, install the necessary packages:
 
-    ```bash
+   ```bash
      npm install
-    ```
+ ```
 
 Start the Development Server:
 
