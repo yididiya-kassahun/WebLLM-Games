@@ -1,0 +1,10 @@
+node_module
+
+.env
+
+.DS_Store
+
+/public
+
+/assets
+
