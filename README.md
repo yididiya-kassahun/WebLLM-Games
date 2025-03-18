@@ -1,6 +1,6 @@
 # WebLLM-GamesBot
 
-WebLLM-Games is a collection of interactive games powered by [Gemini], an Larg language model and using Telegram bot API.
+WebLLM-Games is a collection of interactive games powered by [Gemini], an Large language model and using Telegram bot API.
 
 ## Features
 
